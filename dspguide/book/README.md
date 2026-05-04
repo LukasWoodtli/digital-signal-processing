@@ -23,8 +23,8 @@ http://dspguide.com/
 | 11      | Fourier Transform Pairs           | CH11.pdf |    16 |      |
 | 12      | The Fast Fourier Transform        | CH12.pdf |    18 |      |
 | 13      | Continuous Signal Processing      | CH13.pdf |    18 |      |
-| 14      | Introduction to Digital Filters   | CH14.pdf |    16 |      |
-| 15      | Moving Average Filters            | CH15.pdf |     8 |      |
+| 14      | Introduction to Digital Filters   | CH14.pdf |    16 |   ✓  |
+| 15      | Moving Average Filters            | CH15.pdf |     8 |   ✓  |
 | 16      | Windowed-Sinc Filters             | CH16.pdf |    12 |      |
 | 17      | Custom Filters                    | CH17.pdf |    14 |      |
 | 18      | FFT Convolution                   | CH18.pdf |     8 |      |
