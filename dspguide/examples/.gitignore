@@ -1,0 +1,4 @@
+Tests/plots/
+**/bin/
+**/obj/
+.idea/
