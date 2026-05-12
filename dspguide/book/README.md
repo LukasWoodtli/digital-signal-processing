@@ -12,36 +12,36 @@ http://dspguide.com/
 | ------- | --------------------------------- | -------- | ----: | :--: | :--:     |
 | 1       | The Breadth and Depth of DSP      | CH1.pdf  |    10 |   ✓  |    -     |
 | 2       | Statistics, Probability and Noise | CH2.pdf  |    24 |      |          |
-| 3       | ADC and DAC                       | CH3.pdf  |    32 |      |          |
+| 3       | ADC and DAC                       | CH3.pdf  |    32 |      |    -     |
 | 4       | DSP Software                      | CH4.pdf  |    20 |   ✓  |    -     |
 | 5       | Linear Systems                    | CH5.pdf  |    20 |   ✓  |    -     |
 | 6       | Convolution                       | CH6.pdf  |    16 |   ✓  |          |
-| 7       | Properties of Convolution         | CH7.pdf  |    18 |   ✓  |          |
+| 7       | Properties of Convolution         | CH7.pdf  |    18 |   ✓  |    -     |
 | 8       | The Discrete Fourier Transform    | CH8.pdf  |    28 |   ✓  |          |
-| 9       | Applications of the DFT           | CH9.pdf  |    16 |      |          |
-| 10      | Fourier Transform Properties      | CH10.pdf |    24 |      |          |
-| 11      | Fourier Transform Pairs           | CH11.pdf |    16 |      |          |
+| 9       | Applications of the DFT           | CH9.pdf  |    16 |      |    -     |
+| 10      | Fourier Transform Properties      | CH10.pdf |    24 |      |    -     |
+| 11      | Fourier Transform Pairs           | CH11.pdf |    16 |      |    -     |
 | 12      | The Fast Fourier Transform        | CH12.pdf |    18 |      |          |
-| 13      | Continuous Signal Processing      | CH13.pdf |    18 |      |          |
-| 14      | Introduction to Digital Filters   | CH14.pdf |    16 |   ✓  |     -    |
-| 15      | Moving Average Filters            | CH15.pdf |     8 |   ✓  |          |
+| 13      | Continuous Signal Processing      | CH13.pdf |    18 |      |    -     |
+| 14      | Introduction to Digital Filters   | CH14.pdf |    16 |   ✓  |    -     |
+| 15      | Moving Average Filters            | CH15.pdf |     8 |   ✓  |    ✓     |
 | 16      | Windowed-Sinc Filters             | CH16.pdf |    12 |      |          |
 | 17      | Custom Filters                    | CH17.pdf |    14 |      |          |
 | 18      | FFT Convolution                   | CH18.pdf |     8 |      |          |
 | 19      | Recursive Filters                 | CH19.pdf |    14 |      |          |
 | 20      | Chebyshev Filters                 | CH20.pdf |    10 |      |          |
-| 21      | Filter Comparison                 | CH21.pdf |     8 |      |          |
-| 22      | Audio Processing                  | CH22.pdf |    22 |      |          |
-| 23      | Image Formation & Display         | CH23.pdf |    24 |      |          |
+| 21      | Filter Comparison                 | CH21.pdf |     8 |      |    -     |
+| 22      | Audio Processing                  | CH22.pdf |    22 |      |    -     |
+| 23      | Image Formation & Display         | CH23.pdf |    24 |      |    -     |
 | 24      | Linear Image Processing           | CH24.pdf |    26 |      |          |
 | 25      | Special Imaging Techniques        | CH25.pdf |    28 |      |          |
 | 26      | Neural Networks (and more!)       | CH26.pdf |    30 |      |          |
-| 27      | Data Compression                  | CH27.pdf |    22 |      |          |
-| 28      | Digital Signal Processors         | CH28.pdf |    32 |      |          |
-| 29      | Getting Started with DSPs         | CH29.pdf |    16 |      |          |
+| 27      | Data Compression                  | CH27.pdf |    22 |      |    -     |
+| 28      | Digital Signal Processors         | CH28.pdf |    32 |      |    -     |
+| 29      | Getting Started with DSPs         | CH29.pdf |    16 |  (✓) |    -     |
 | 30      | Complex Numbers                   | CH30.pdf |    16 |   ✓  |          |
-| 31      | The Complex Fourier Transform     | CH31.pdf |    14 |      |          |
-| 32      | The Laplace Transform             | CH32.pdf |    24 |      |          |
+| 31      | The Complex Fourier Transform     | CH31.pdf |    14 |      |    -     |
+| 32      | The Laplace Transform             | CH32.pdf |    24 |      |    -     |
 | 33      | The z-Transform                   | CH33.pdf |    26 |      |          |
 | 34      | Explaining Benford's Law          | CH34.pdf |    22 |      |          |
 
